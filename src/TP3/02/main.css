@@ -1,12 +1,3 @@
-:root {
-  --color-primary: #174aaf;
-  --text-color: #333;
-  --text-contrast-color: #fff;
-  --text-warning-color: #ff0000;
-}
-
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
+body {
+  font-size: 35px;
 }
